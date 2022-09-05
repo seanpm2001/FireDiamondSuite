@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+Fire Diamond Suite is the ultimate toolkit for recognizing NFPA 704 "Fire diamonds" written in Forth, Fortran, Python, and C.
